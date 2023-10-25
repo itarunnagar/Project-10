@@ -75,3 +75,8 @@ footer img{
 footer img:hover{
     width: 40px;
 }
+@media(max-width:900px){
+  body{
+    display: none;
+  }
+}
